@@ -6,5 +6,5 @@
  - Xcode 8.0+
  - DJI iOS SDK 4.16.1
 
-
+Spracovanie zavislosti cez CocoaPods
 
